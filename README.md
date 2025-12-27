@@ -62,15 +62,18 @@ python main.py
 ## 📸 Capturas de la aplicación
 
 <p align="center">
-  <img src="screenshots/menu.png" alt="Menú principal" width="500"/>
+  <img src="cap/cap1.png" alt="Menú principal" width="500"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/alta_producto.png" alt="Alta de producto" width="500"/>
+  <img src="cap/cap2.png" alt="Alta de producto" width="500"/>
 </p>
 
 <p align="center">
-  <img src="screenshots/listado.png" alt="Listado de productos" width="500"/>
+  <img src="cap/cap3.png" alt="Listado de productos" width="500"/>
+</p>
+<p align="center">
+  <img src="cap/cap4.png" alt="Listado de productos" width="500"/>
 </p>
 
 ## 📂 Estado del proyecto
