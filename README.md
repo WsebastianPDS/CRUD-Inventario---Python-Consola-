@@ -63,9 +63,7 @@ python main.py
 
 <p align="center">
   <img src="cap/cap1.png" alt="Menú principal" width="500"/>
-</p>
 
-<p align="center">
   <img src="cap/cap2.png" alt="Alta de producto" width="500"/>
 </p>
 
