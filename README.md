@@ -73,4 +73,16 @@ python main.py
   <img src="screenshots/listado.png" alt="Listado de productos" width="500"/>
 </p>
 
+## 📂 Estado del proyecto
+
+✔️ Funcional
+✔️ Completo
+✔️ Proyecto de práctica personal 
+
+---
+
+## 👤 Autor
+
+**William Sebastian Pinto Da Silva**  
+QA Tester Jr. | Developer Jr.
 
