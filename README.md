@@ -75,7 +75,9 @@ python main.py
 ## 📂 Estado del proyecto
 
 ✔️ Funcional
+
 ✔️ Completo
+
 ✔️ Proyecto de práctica personal 
 
 ---
