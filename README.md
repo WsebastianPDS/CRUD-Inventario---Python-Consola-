@@ -30,7 +30,7 @@ El proyecto permite administrar productos de forma simple, simulando un escenari
 
 ## 🛠️ Tecnologías utilizadas
 
-- Python 3
+- Python
 - Git / GitHub
 
 ---
