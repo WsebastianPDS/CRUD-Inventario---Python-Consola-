@@ -62,13 +62,13 @@ python main.py
 ## 📸 Capturas de la aplicación
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="cap/cap1.png" alt="Menú principal" width="480"/>
-  <img src="cap/cap2.png" alt="Alta de producto" width="480"/>
+  <img src="cap/cap1.png" alt="Menú principal" width="310" height="200" style="object-fit: cover; border-radius: 8px;"/>
+  <img src="cap/cap2.png" alt="Alta de producto" width="310" height="200" style="object-fit: cover; border-radius: 8px;"/>
 </p>
 
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="cap/cap3.png" alt="Reporte de stock" width="480"/>
-  <img src="cap/cap4.png" alt="Listado de productos" width="480"/>
+  <img src="cap/cap3.png" alt="Reporte de stock" width="310" height="200" style="object-fit: cover; border-radius: 8px;"/>
+  <img src="cap/cap4.png" alt="Listado de productos" width="310" height="200" style="object-fit: cover; border-radius: 8px;"/>
 </p>
 
 
