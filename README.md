@@ -85,5 +85,5 @@ python main.py
 ## 👤 Autor
 
 **William Sebastian Pinto Da Silva**  
-QA Tester Jr. | Developer Jr.
+Junior Backend Developer | C# · .NET · SQL | QA Testing
 
